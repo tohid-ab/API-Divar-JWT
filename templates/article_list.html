@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+{% for article in object_list %}
+    <h2>{{ article.title }}</h2>
+    <h4>{{ article.publish }}</h4>
+    <h4>{{ article.description }}</h4>
+    <h3>{{ article.author }}</h3>
+<hr>
+
+{% endfor %}
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjMyOTA0MDE0LCJqdGkiOiI0ODBjM2VlZGU1NjI0YjJlYTFkMjI2Y2RiYjcwNDUyOCIsInVzZXJfaWQiOjF9.JZ7pv5TWPtw_d7UzHcU3bRDRf7Ij0EdPXLciegYOAhI",
+    "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTYzMjk5MDExNCwianRpIjoiMWM5MzljOWMzZDNiNGQ2YWJmOGE0ZDBkNDFhYWE1YmUiLCJ1c2VyX2lkIjoxfQ.FiPSTIWwVCXTX4xaalgbnCHSq8_rSXM5P2neBbvE9Cc",
+    "user": {
+        "pk": 1,
+        "username": "admin",
+        "email": "",
+        "first_name": "tohid",
+        "last_name": "abrian"
+    }
+}
